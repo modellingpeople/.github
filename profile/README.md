@@ -8,7 +8,7 @@ Welcome to the Modelling People team organization! This repository serves as the
 <br>
 <br>
 <br>
-<img src="https://github.com/AECTech-London-2026/.github/raw/main/PopeIcon.png" alt="PoPe Logo" width="300">
+<img src="https://github.com/modellingpeople/.github/raw/main/PopeIcon.png" alt="PoPe Logo" width="300">
 <br>
 <br>
 <br>
