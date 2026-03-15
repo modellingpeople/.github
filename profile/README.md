@@ -5,10 +5,7 @@ Welcome to the Modelling People team organization! This repository serves as the
 <p align="center">
 <br>
 <br>
-<br>
-<!-- <img src="https://github.com/modellingpeople/.github/raw/main/PopeIcon.png" alt="PoPe Logo" width="300"> -->
 <img src="https://github.com/modellingpeople/.github/raw/main/MainCoverPeople.png" alt="MainCoverPeople Logo" width="300">
-<br>
 <br>
 <br>
 </p>
