@@ -1,6 +1,4 @@
-# README.md
-
-## Modelling People 👥
+# Modelling People 👥
 
 Welcome to the Modelling People team organization! This repository serves as the home for our PoPe full-stack application and the shared standards, conventions, and resources that support it.
 
